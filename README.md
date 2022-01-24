@@ -1,2 +1,1 @@
-# Homework 1
-Hello!
+Hello Github!
